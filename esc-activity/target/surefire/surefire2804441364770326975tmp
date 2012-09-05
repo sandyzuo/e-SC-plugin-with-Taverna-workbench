@@ -1,0 +1,6 @@
+#surefire
+#Wed Jun 13 12:37:49 BST 2012
+java.awt.headless=true
+user.dir=/Users/xiyuzuo/Documents/workspace/esc/esc-activity
+localRepository=/Users/xiyuzuo/.m2/repository
+basedir=/Users/xiyuzuo/Documents/workspace/esc/esc-activity
